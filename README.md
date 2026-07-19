@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-SYLEVON CYBER NET SEC ANALYZER (Internal Project Name: **Kotodur**) is an advanced Android application designed to provide comprehensive WiFi diagnostics, network analysis, and defensive security auditing in a modern cyberpunk interface.
+**Kotodur** is an advanced Android application that provides comprehensive WiFi diagnostics, network analysis, and defensive security auditing within a modern cyberpunk interface.
 
 Unlike traditional WiFi analyzer apps, SYLEVON combines real-time telemetry, network performance testing, LAN discovery, security assessment, and GPS-based signal surveying into a single application.
 
