@@ -222,7 +222,7 @@ Data
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SYLEVON-CYBER-NET-SEC-ANALYZER.git
+git clone https://github.com/syl3von/Kotodur.git
 ```
 
 Open with Android Studio
